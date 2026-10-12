@@ -1,1 +1,2 @@
 My first Git version control assignment.
+Second version: changes tracked using Git.
